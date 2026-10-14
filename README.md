@@ -218,6 +218,4 @@ python3 ejercicio.py
 
 Proyecto desarrollado durante el **Bootcamp de Data Science**.
 
-Su finalidad es consolidar los conocimientos de programación en Python, manipulación de arrays con NumPy y programación orientada a objetos mediante el desarrollo de un juego interactivo.
-
 El proyecto se encuentra en proceso de desarrollo, revisión y mejora.
